@@ -1,5 +1,5 @@
 # Primo script in Python
-
+#By Simona Zonca
 print("Tipo di variabili")
 
 nome = "Anna"
