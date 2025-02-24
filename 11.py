@@ -1,3 +1,5 @@
+
+
 def mostra_menu():
     # Mostra il menu delle operazioni disponinili.
     print("\n--- BANCOMAT ---")
